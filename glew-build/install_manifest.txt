@@ -1,0 +1,13 @@
+D:/Projects/OpenGL_Try/glew-install/lib/glew32.lib
+D:/Projects/OpenGL_Try/glew-install/bin/glew32.dll
+D:/Projects/OpenGL_Try/glew-install/lib/libglew32.lib
+D:/Projects/OpenGL_Try/glew-install/bin/glewinfo.exe
+D:/Projects/OpenGL_Try/glew-install/bin/visualinfo.exe
+D:/Projects/OpenGL_Try/glew-install/lib/pkgconfig/glew.pc
+D:/Projects/OpenGL_Try/glew-install/include/GL/wglew.h
+D:/Projects/OpenGL_Try/glew-install/include/GL/glew.h
+D:/Projects/OpenGL_Try/glew-install/include/GL/glxew.h
+D:/Projects/OpenGL_Try/glew-install/lib/cmake/glew/glew-targets.cmake
+D:/Projects/OpenGL_Try/glew-install/lib/cmake/glew/glew-targets-release.cmake
+D:/Projects/OpenGL_Try/glew-install/lib/cmake/glew/glew-config.cmake
+D:/Projects/OpenGL_Try/glew-install/lib/cmake/glew/CopyImportedTargetProperties.cmake

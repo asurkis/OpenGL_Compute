@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.12/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakePackageConfigHelpers.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFile.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CheckLibraryExists.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CheckSymbolExists.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/FindDoxygen.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/FindThreads.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/WriteBasicConfigVersionFile.cmake
+D:/Projects/OpenGL_Try/glfw-3.2.1/CMake/modules/FindVulkan.cmake
+D:/Projects/OpenGL_Try/glfw-3.2.1/CMakeLists.txt
+D:/Projects/OpenGL_Try/glfw-3.2.1/cmake_uninstall.cmake.in
+D:/Projects/OpenGL_Try/glfw-3.2.1/src/glfw3.pc.in
+D:/Projects/OpenGL_Try/glfw-3.2.1/src/glfw3Config.cmake.in
+D:/Projects/OpenGL_Try/glfw-3.2.1/src/glfw_config.h.in
+D:/Projects/OpenGL_Try/glfw-build/CMakeFiles/3.12.2/CMakeCCompiler.cmake
+D:/Projects/OpenGL_Try/glfw-build/CMakeFiles/3.12.2/CMakeRCCompiler.cmake
+D:/Projects/OpenGL_Try/glfw-build/CMakeFiles/3.12.2/CMakeSystem.cmake

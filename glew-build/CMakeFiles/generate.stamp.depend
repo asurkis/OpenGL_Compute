@@ -1,0 +1,29 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/FindOpenGL.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/GNUInstallDirs.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+D:/Projects/OpenGL_Try/glew-2.1.0/build/cmake/../../glew.pc.in
+D:/Projects/OpenGL_Try/glew-2.1.0/build/cmake/CMakeLists.txt
+D:/Projects/OpenGL_Try/glew-2.1.0/build/cmake/cmake_uninstall.cmake.in
+D:/Projects/OpenGL_Try/glew-build/CMakeFiles/3.12.2/CMakeCCompiler.cmake
+D:/Projects/OpenGL_Try/glew-build/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake
+D:/Projects/OpenGL_Try/glew-build/CMakeFiles/3.12.2/CMakeRCCompiler.cmake
+D:/Projects/OpenGL_Try/glew-build/CMakeFiles/3.12.2/CMakeSystem.cmake
